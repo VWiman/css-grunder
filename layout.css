@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.myHeader {
+    background-color: black;
+    padding: 10px 0px 10px 0px;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.myNav {
+    display: flex;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    width: 30%;
+}
+
+.myMain {
+    display: flex;
+    height: 200px;
+    width: 70%;
+    background-color: red;
+    float: right;
+}
+
+.myFooter {
+    clear: both;
+    display: flex;
+    background-color: red;
+}

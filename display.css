@@ -1,0 +1,18 @@
+.box {
+    background-color: grey;
+}
+
+.box3 {
+    background-color: grey;
+    display: inline-block;
+    width: 100px;
+}
+
+.box2 {
+    display: inline;
+    background-color: grey;
+}
+
+.my_span {
+    background-color: aquamarine;
+}
