@@ -1,4 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: azure;
+}
+
 h1 {
     color: red;
     text-align: center;
+}
+
+p {
+    color: green;
+}
+#my_id {
+    color: purple;
+}
+
+.my_class {
+    color: pink;
+}
+
+p.my_paragraf {
+    color: cyan;
 }
